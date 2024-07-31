@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: rgb(232 239 247);
+}
+.facebook
+{
+display: flex;
+}
+.leftcontent
+{
+padding-left: 200px;
+padding-top: 235px;
+}
+#heading
+{
+color: #3171e5;
+font-size: 58px;
+font-family: sans-serif;
+font-weight: bolder;
+line-height: 50px;
+}
+#para
+{
+font-family: sans-serif;
+font-size: 23px;
+}
